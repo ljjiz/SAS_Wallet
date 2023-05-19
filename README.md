@@ -19,5 +19,6 @@ SAS Wallet Android App is a digital wallet application that allows users to secu
 - Customer support contact page
 
 ## Design:
-![Image Alt Text]("S:\Indonesia\semester 5\open source\10.png")
+<img width="836" alt="10" src="https://github.com/ljjiz/SAS/assets/82767133/c511e68e-e7f2-450c-b842-fac1c8ef1c77">
+
 
